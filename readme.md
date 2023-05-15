@@ -11,3 +11,8 @@ Built with:
 "Calm" landing page.
 - ### Output:
   ![Output](./project_1/assets/output.jpg)
+
+# Project 2:
+"Medifine" landing page.
+- ### Output:
+  ![Output](./project_2/assets/output.jpg)
