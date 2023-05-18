@@ -16,3 +16,8 @@ Built with:
 "Medifine" landing page.
 - ### Output:
   ![Output](./project_2/assets/output.jpg)
+
+# Project 3:
+"Justice" landing page.
+- ### Output:
+  ![Output](./project_3/assets/output.jpg)
