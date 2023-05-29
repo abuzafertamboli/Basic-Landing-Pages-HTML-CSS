@@ -25,4 +25,9 @@ Built with:
 # Project 4:
 "Digital Marketing" landing page.
 - ### Output:
-  ![Output](./project_4/assets/output.jpg)  
+  ![Output](./project_4/assets/output.jpg)
+
+# Project 5:
+"DAO" landing page.
+- ### Output:
+  ![Output](./project_5/assets/output.jpg)
