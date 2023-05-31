@@ -31,3 +31,8 @@ Built with:
 "DAO" landing page.
 - ### Output:
   ![Output](./project_5/assets/output.jpg)
+
+# Project 6:
+"Fashion Trend" landing page.
+- ### Output:
+  ![Output](./project_6/assets/output.jpg)
